@@ -3,5 +3,5 @@ projectKey=vdcadena_keras
 serverUrl=https://sonarcloud.io
 serverVersion=7.7.0.22792
 dashboardUrl=https://sonarcloud.io/dashboard?id=vdcadena_keras
-ceTaskId=AWmVg6j-O5STJbyX0u1E
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWmVg6j-O5STJbyX0u1E
+ceTaskId=AWmViLcBk8L8EpDFUpNw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWmViLcBk8L8EpDFUpNw
